@@ -10,8 +10,8 @@ android {
     buildToolsVersion setup.buildTools
 
     defaultConfig {
-        minSdkVersion setup.minSdk
-        targetSdkVersion setup.targetSdk
+        minSdkVersion 16
+        targetSdkVersion 26
         versionCode 6020
         versionName "6.0.2"
 
